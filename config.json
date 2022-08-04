@@ -2,5 +2,5 @@
 	"ip":"PiotrDDK.aternos.me",
 	"port": "63687",
 	"name": "tencraftsv",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
